@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Reasoning Models
 
 The o1 / R1 paradigm shift &mdash; scaling test-time compute, process vs outcome rewards, and when to reach for a reasoning model versus a frontier model with scaffolding.
